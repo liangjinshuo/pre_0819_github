@@ -1,0 +1,16 @@
+{
+  "apiID": "package_fdbcbc__c__function_aaditrh2fsass",
+  "apiName": "func_golang",
+  "label": {
+    "zh_CN": "func_golang",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
