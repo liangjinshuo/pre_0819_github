@@ -1,0 +1,17 @@
+{
+  "apiName": "kh_component",
+  "label": {
+    "zh_CN": "kh_component",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "kh component 组件描述",
+    "en_US": "kh component component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
