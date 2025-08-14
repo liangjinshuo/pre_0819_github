@@ -1,0 +1,17 @@
+{
+  "apiName": "github_hotfix_componet",
+  "label": {
+    "zh_CN": "github_hotfix_componet",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "github hotfix componet 组件描述",
+    "en_US": "github hotfix componet component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
